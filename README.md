@@ -1,6 +1,6 @@
 # Mirror
 
-https://mirror.turbowarp.xyz/
+https://cstudentreel.github.io/mirror/#0
 
 These are some scripts for making mirrors of [TurboWarp](https://turbowarp.org/).
 
